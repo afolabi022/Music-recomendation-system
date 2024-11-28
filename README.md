@@ -102,7 +102,7 @@ music-recommendation-system/
 ---
 
 ## 🧑‍💻 Author
-Developed by **[Your Name](https://github.com/afolabi022)**.  
+Developed by **[Afolabi Azeez](https://github.com/afolabi022)**.  
 Feel free to connect with me for feedback or collaboration.
 
 ---
@@ -111,14 +111,3 @@ Feel free to connect with me for feedback or collaboration.
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
-
-### Adding to GitHub
-To make sure it's clear that your app is deployed on Streamlit, you can include the live link to your app within your README, as shown above. Additionally, you can add a **badges section** to indicate the deployment status or a link.
-
-For example, at the top of your README, you could add a **badge** for your Streamlit deployment:
-
-```markdown
-![Streamlit App](https://img.shields.io/badge/Streamlit-App-deployed-blue)
-```
-
-
