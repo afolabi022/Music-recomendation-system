@@ -1,3 +1,6 @@
+![Streamlit App](https://img.shields.io/badge/Streamlit-App-deployed-blue)
+
+
 # 🎵 Music Recommendation System  
 
 This project is a machine learning-powered **Music Recommendation System** built and deployed using **Streamlit**. The system provides personalized music recommendations by clustering songs based on user preferences. It leverages the **K-Means clustering algorithm** and calculates similarity using **Euclidean distance**.
